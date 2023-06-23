@@ -33,7 +33,7 @@ The project uses a MySQL database for data storage. Configure the database conne
 
 - Database URL: jdbc:mysql://localhost:3306/road_transport
 - Username: root
-- Password: your_password
+- Password: root
 
 Make sure to create the "road_transport" database before connecting.
 
